@@ -1,0 +1,6 @@
+{
+  "name": "AstroShield GEO Space Weather Suite",
+  "description": "Professional geostationary space weather forecasting, electron flux dynamics simulation, and satellite radiation belt anomaly prediction workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
